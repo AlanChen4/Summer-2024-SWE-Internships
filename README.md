@@ -1,23 +1,14 @@
 # Summer 2024 Software Engineering Internships
 
-This board is **updated daily** using an automated job monitor.
+📅 This board is **updated daily** using a custom automated job monitor. 
 
-_Disclaimer: This project is a work in progress, but the goal is to index 1,000+ roles_
+⚒ More companies are added and monitored every day, so feel to open a pull request with any suggestions.
 
-If you're interested in
-- ⚡ More frequent monitoring of jobs (hourly, every 10 minutes, etc.)
-- 🔒 Creating private lists of companies you want to monitor
-- 🔌 Slack/Discord integrations for your student org
-- and other cool stuff...
+📢 This project is heavily inspired by orgs like Pitt CSC so huge shoutout to them!
 
-then please visit [my site](https://carbos.vercel.app/) (🚧 currently in construction, but will be free)
+👀 If you're a student org looking for custom recruiting infrastructure, check out [another project I'm working on](https://carbos.vercel.app/).
 
-The goal is to make recruiting as accessible as possible so everything is free. This project is heavily inspired by orgs like Pitt CSC so huge shoutout to them!
-
-If you like this project and want to see it continued, please leave a star ⭐ as it is greatly appreciated.
-
-Otherwise, please feel free to submit a pull request with any additions/changes.
-
+**If you like this project and want to see it continued, please leave a star ⭐ as it is greatly appreciated!**
 
 | Company | Title | Last Checked At | Status |
 | ------- | ------| --------------- | ------ |
