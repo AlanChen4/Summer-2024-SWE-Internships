@@ -40,6 +40,7 @@
 | J.P. Morgan | [Technology 12-month Internship](https://careers.jpmorgan.com/global/en/students/programs/technology-12-month-analyst) | June 01, 2023 | 🚧 Not Open |
 | JP Morgan | [Software Engineer](https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer) | June 01, 2023 | 🚧 Not Open |
 | Meta | [Research Scientist Intern](https://www.metacareers.com/v2/jobs/1225581331659346/) | June 01, 2023 | ✅ Open |
+| Microsoft | [N/A](#) | June 01, 2023 | 🚧 Not Open |
 | MosaicML | [Software Engineer Intern](https://boards.greenhouse.io/mosaicml/jobs/4133756004) | June 01, 2023 | ✅ Open |
 | Netflix | [N/A](#) | June 01, 2023 | 🚧 Not Open |
 | Neuralink | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5285389003) | June 01, 2023 | ✅ Open |
