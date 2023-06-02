@@ -16,6 +16,7 @@
 | ------- | ------| --------------- | ------ | --------- |
 | Apple | [Software Engineering...](https://jobs.apple.com/en-us/details/200480063/software-engineering-internships?team=STDNT) | June 02, 2023 | ✅ | May 25, 2023 |
 | AQR Capital Man... | [2024 Summer Internsh...](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927?lang=en_us) | June 02, 2023 | ✅ | May 31, 2023 |
+| Optiver | [2024 Tech Graduate & Intern – Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) | June 02, 2023 | ✅ | May 31, 2023 | 
 | CertiK | [Platform Engineering...](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40) | June 02, 2023 | ✅ | June 01, 2023 |
 | Circle | [Sales Engineering](https://boards.greenhouse.io/circle/jobs/6720476002) | June 02, 2023 | ✅ | June 01, 2023 |
 | Meta | [Research Scientist I...](https://www.metacareers.com/v2/jobs/1225581331659346/) | June 02, 2023 | ✅ | June 01, 2023 |
@@ -79,7 +80,6 @@
 | OceanX | [N/A](#) | June 02, 2023 | 🔒 | N/A |
 | OpenSea | [N/A](#) | June 02, 2023 | 🔒 | N/A |
 | OpenX | [N/A](#) | June 02, 2023 | 🔒 | N/A |
-| Optiver | [N/A](#) | June 02, 2023 | 🔒 | N/A |
 | Patreon | [N/A](#) | June 02, 2023 | 🔒 | N/A |
 | Planet | [N/A](#) | June 02, 2023 | 🔒 | N/A |
 | Putnam Investme... | [N/A](#) | June 02, 2023 | 🔒 | N/A |
