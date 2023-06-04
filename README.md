@@ -182,7 +182,6 @@
 | OneSignal | $50 million in a Series C | [N/A](#) | June 04, 2023 | 🔒 | N/A |
 | OpenSea | NFT Marketplace, $13.3 billion valuation | [N/A](#) | June 04, 2023 | 🔒 | N/A |
 | OpenX |  | [N/A](#) | June 04, 2023 | 🔒 | N/A |
-| Optiver |  | [N/A](#) | June 04, 2023 | 🔒 | N/A |
 | Panorama Education | Edtech, $60 million Series C investment led by General Atlantic. | [N/A](#) | June 04, 2023 | 🔒 | N/A |
 | Patreon | Business tools for content creators to run a subscription service, $4B valuation. | [N/A](#) | June 04, 2023 | 🔒 | N/A |
 | Paystack | Modern payments infrastructure for Africa, used by over 60,000 businesses | [N/A](#) | June 04, 2023 | 🔒 | N/A |
