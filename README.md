@@ -181,7 +181,7 @@
 | Odeko | Operations software to help cafes run & grow, $53M Series D, backed by American Express | [N/A](#) | June 04, 2023 | 🔒 | N/A |
 | OneSignal | $50 million in a Series C | [N/A](#) | June 04, 2023 | 🔒 | N/A |
 | OpenSea | NFT Marketplace, $13.3 billion valuation | [N/A](#) | June 04, 2023 | 🔒 | N/A |
-| OpenX | melanie.tymn@openx.com (Melanie Tymn: Talent Acquisition Coordinator), jessica.mcguire@openx.com (Jessica McGuire: Recruiter) | [N/A](#) | June 04, 2023 | 🔒 | N/A |
+| OpenX |  | [N/A](#) | June 04, 2023 | 🔒 | N/A |
 | Optiver |  | [N/A](#) | June 04, 2023 | 🔒 | N/A |
 | Panorama Education | Edtech, $60 million Series C investment led by General Atlantic. | [N/A](#) | June 04, 2023 | 🔒 | N/A |
 | Patreon | Business tools for content creators to run a subscription service, $4B valuation. | [N/A](#) | June 04, 2023 | 🔒 | N/A |
