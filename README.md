@@ -14,6 +14,9 @@
 
 | Company | Title | Description | Investors | Status | Opened At |
 | ------- | ------| ------------| --------- | ------ | --------- |
+| Google | [Software Engineering Intern, BS, Summer 2024](https://careers.google.com/jobs/results/73287692785197766-software-engineering-intern-bs-summer-2024/?company=Fitbit&company=GFiber&company=Google&company=YouTube&distance=50&employment_type=INTERN&jex=ENTRY_LEVEL&location=United%20States&q=Software%20Engineer&src=Online%2FGoogle%20Website%2FByF&utm_campaign=ByF%20SWE%20intern&utm_medium=careers_site%20&utm_source=Online%20) |  | <p align="center"></p> | ✅ | June 05, 2023 |
+| Google | [Software Engineering Intern, MS, Summer 2024](https://careers.google.com/jobs/results/130444705243505350-software-engineering-intern-ms-summer-2024/?company=Fitbit&company=GFiber&company=Google&company=YouTube&distance=50&employment_type=INTERN&jex=ENTRY_LEVEL&location=United%20States&q=Software%20Engineer&src=Online%2FGoogle%20Website%2FByF&utm_campaign=ByF%20SWE%20intern&utm_medium=careers_site%20&utm_source=Online%20) |  | <p align="center"></p> | ✅ | June 05, 2023 |
+| Neuralink | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5285389003) |  | <p align="center"></p> | ✅ | June 05, 2023 |
 | Agot | [Computer Vision Engineering Intern](https://jobs.lever.co/agotai/aebe6b44-9b0e-4062-90ad-2829ae998aec) | Giving restaurants computer vision to see where food orders go wrong. | <p align="center"></p> | ✅ | June 04, 2023 |
 | Agot | [Software Engineering Intern](https://jobs.lever.co/agotai/c7d7246a-8056-4878-887e-47eaf2a30ba6) | Giving restaurants computer vision to see where food orders go wrong. | <p align="center"></p> | ✅ | June 04, 2023 |
 | The Boring Company | [Tunnel Engineering Intern](https://jobs.lever.co/boringcompany/f07e7532-a6e0-45c9-8328-c521bb68f105) | Musk portfolio, fix transportation and transform cities using tunnels | <p align="center"><img src="imgs/sequoia.png" alt="sequoia" width="66"/><br></p> | ✅ | June 04, 2023 |
@@ -24,19 +27,19 @@
 | Second Order Effects | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562680003) | Second Order Effects is an engineering consultancy that turns uncertainty into fully functional hardware and software. | <p align="center"></p> | ✅ | June 04, 2023 |
 | Angle Labs | [Software Engineer Intern (Back-End - Web3)](https://anglemoney.notion.site/Software-Engineer-Intern-Back-End-Web3-462c246d894e4f409aba0733877ee57d?pvs=25) | Building at the forefront of DeFi | <p align="center"><img src="imgs/a16z.png" alt="a16z" width="66"/><br></p> | ✅ | June 04, 2023 |
 | CertiK | [Platform Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40) |  | <p align="center"><img src="imgs/insight-partners.png" alt="insight partners" width="66"/><br><img src="imgs/sequoia.png" alt="sequoia" width="66"/><br><img src="imgs/tiger-global.png" alt="tiger global" width="66"/><br></p> | ✅ | June 04, 2023 |
-| MosaicML | [Software Engineer Intern](https://boards.greenhouse.io/mosaicml/jobs/4133756004) | Train and deploy LLMs and other generative AI models on your data, in your secure environment. | <p align="center"></p> | ✅ | June 01, 2023 |
-| Capstone | [2024 Summer Internship - Software Engineer](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6784275002) | Investment management with $9.4 billion AUM | <p align="center"></p> | ✅ | June 01, 2023 |
-| Ramp | [Software Engineer Internship   Frontend](https://boards.greenhouse.io/ramp/jobs/4820594002) |  | <p align="center"><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br><img src="imgs/iconiq.png" alt="iconiq" width="66"/><br><img src="imgs/thrive-capital.png" alt="thrive capital" width="66"/><br></p> | ✅ | June 01, 2023 |
-| Ramp | [Software Engineer Internship   Android](https://boards.greenhouse.io/ramp/jobs/6726450002) |  | <p align="center"><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br><img src="imgs/iconiq.png" alt="iconiq" width="66"/><br><img src="imgs/thrive-capital.png" alt="thrive capital" width="66"/><br></p> | ✅ | June 01, 2023 |
 | Ramp | [Software Engineer Internship   iOS](https://boards.greenhouse.io/ramp/jobs/6729438002) |  | <p align="center"><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br><img src="imgs/iconiq.png" alt="iconiq" width="66"/><br><img src="imgs/thrive-capital.png" alt="thrive capital" width="66"/><br></p> | ✅ | June 01, 2023 |
 | Ramp | [Software Engineer Internship   Backend](https://boards.greenhouse.io/ramp/jobs/5083064002) |  | <p align="center"><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br><img src="imgs/iconiq.png" alt="iconiq" width="66"/><br><img src="imgs/thrive-capital.png" alt="thrive capital" width="66"/><br></p> | ✅ | June 01, 2023 |
+| Ramp | [Software Engineer Internship   Frontend](https://boards.greenhouse.io/ramp/jobs/4820594002) |  | <p align="center"><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br><img src="imgs/iconiq.png" alt="iconiq" width="66"/><br><img src="imgs/thrive-capital.png" alt="thrive capital" width="66"/><br></p> | ✅ | June 01, 2023 |
+| Ramp | [Software Engineer Internship   Android](https://boards.greenhouse.io/ramp/jobs/6726450002) |  | <p align="center"><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br><img src="imgs/iconiq.png" alt="iconiq" width="66"/><br><img src="imgs/thrive-capital.png" alt="thrive capital" width="66"/><br></p> | ✅ | June 01, 2023 |
+| MosaicML | [Software Engineer Intern](https://boards.greenhouse.io/mosaicml/jobs/4133756004) | Train and deploy LLMs and other generative AI models on your data, in your secure environment. | <p align="center"></p> | ✅ | June 01, 2023 |
+| Capstone | [2024 Summer Internship - Software Engineer](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6784275002) | Investment management with $9.4 billion AUM | <p align="center"></p> | ✅ | June 01, 2023 |
 | Optiver | [2024 Tech Graduate & Intern – Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) |  | <p align="center"></p> | ✅ | May 31, 2023 |
 | AQR Capital Management, LLC | [2024 Summer Internship-Express Interest](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927?gh_jid=4478927#/) |  | <p align="center"></p> | ✅ | May 31, 2023 |
+| Meta | [Research Scientist Intern, AI Graphics (PhD)](https://www.metacareers.com/v2/jobs/1295606777860891/) |  | <p align="center"></p> | ✅ | May 31, 2023 |
+| Meta | [Research Scientist Intern, AI Computer Vision (PhD)](https://www.metacareers.com/v2/jobs/1427448121116394/) |  | <p align="center"></p> | ✅ | May 31, 2023 |
 | Bridgewater Associates | [Investment Engineer Intern - Summer 2024](https://boards.greenhouse.io/bridgewater89/jobs/6570837002) | World's largest hedge fund | <p align="center"></p> | ✅ | May 31, 2023 |
 | Neuralink | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5552197003) |  | <p align="center"></p> | ✅ | May 31, 2023 |
 | Neuralink | [Quality Engineering Internship](https://boards.greenhouse.io/neuralink/jobs/5552854003) |  | <p align="center"></p> | ✅ | May 31, 2023 |
-| Meta | [Research Scientist Intern, AI Graphics (PhD)](https://www.metacareers.com/v2/jobs/1295606777860891/) |  | <p align="center"></p> | ✅ | May 31, 2023 |
-| Meta | [Research Scientist Intern, AI Computer Vision (PhD)](https://www.metacareers.com/v2/jobs/1427448121116394/) |  | <p align="center"></p> | ✅ | May 31, 2023 |
 | Apple | [Software Engineering Internships](https://jobs.apple.com/en-us/details/200480063/software-engineering-internships?team=STDNT) |  | <p align="center"></p> | ✅ | May 24, 2023 |
 | AKASA | [N/A](#) | AI for healthcare operations | <p align="center"><img src="imgs/a16z.png" alt="a16z" width="66"/><br></p> | 🔒 | N/A |
 | Acquia | [N/A](#) | Cloud platform for building, delivering, and optimizing digital experiences. Acquired by Vista Equity Partners for $1B. | <p align="center"></p> | 🔒 | N/A |
@@ -142,20 +145,18 @@
 | GoCardless | [N/A](#) | Online payment processing | <p align="center"><img src="imgs/accel-partners.png" alt="accel partners" width="66"/><br><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Goldbelly | [N/A](#) | Empowering restaurants and small food makers to ship nationwide, $100 Million Series C, backed by Grubhub | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Gong.io | [N/A](#) | Turning customer interactions into data-driven insights | <p align="center"><img src="imgs/sequoia.png" alt="sequoia" width="66"/><br><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br></p> | 🔒 | N/A |
-| Google | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
 | Grafana Labs | [N/A](#) | Compose and scale observability with one or all pieces of the stack, $240M Series D, backed by J.P. Morgan | <p align="center"><img src="imgs/sequoia.png" alt="sequoia" width="66"/><br></p> | 🔒 | N/A |
 | Grammarly | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
 | Guild Education, Inc. | [N/A](#) | Employee upskilling | <p align="center"><img src="imgs/bessemer-venture-partners.png" alt="bessemer-venture-partners" width="66"/><br><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br></p> | 🔒 | N/A |
 | Gusto | [N/A](#) |  | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Helion Energy | [N/A](#) | Building the world’s first fusion power plant, enabling a future with unlimited clean electricity, backed by Sam Altman & Dustin Moskovitz | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Hightouch | [N/A](#) | Syncs your data to CRM, e-mail, advertising tools and more, Series B | <p align="center"></p> | 🔒 | N/A |
-| Hopper | [N/A](#) | Cheaper travel, backed by Capital One | <p align="center"></p> | 🔒 | N/A |
 | Hudl | [N/A](#) | Providing tools for coaches and athletes to review game footage and improve team play. | <p align="center"></p> | 🔒 | N/A |
 | Human Interest | [N/A](#) | 401(k) for small and medium-sized businesses. | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | IMC | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
 | Inversion Space | [N/A](#) | Low-cost return from space. | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
-| JPMorgan Chase & Co. | [Technology 12-month Internship](https://careers.jpmorgan.com/global/en/students/programs/technology-12-month-analyst) |  | <p align="center"></p> | 🔒 | N/A |
-| JPMorgan Chase & Co. | [Software Engineer Internship](https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer) |  | <p align="center"></p> | 🔒 | N/A |
+| J.P. Morgan | [Technology 12-month Internship](https://careers.jpmorgan.com/global/en/students/programs/technology-12-month-analyst) |  | <p align="center"></p> | 🔒 | N/A |
+| J.P. Morgan | [Software Engineer Internship](https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer) |  | <p align="center"></p> | 🔒 | N/A |
 | Jasper | [N/A](#) |  | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Jellyfish | [N/A](#) |  | <p align="center"><img src="imgs/insight-partners.png" alt="insight partners" width="66"/><br><img src="imgs/tiger-global.png" alt="tiger global" width="66"/><br><img src="imgs/accel-partners.png" alt="accel partners" width="66"/><br></p> | 🔒 | N/A |
 | Kernel | [N/A](#) | Next-gen neurotechnology enabling the richest biomarkers for precision neuroscience | <p align="center"></p> | 🔒 | N/A |
@@ -174,6 +175,8 @@
 | Modern Health | [N/A](#) | A mental health benefits platform for employers. | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Monzo | [N/A](#) | A bank as smart as your phone, over 7 million customers | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Mutiny | [N/A](#) | Using AI and data to convert website visitors into customers | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br><img src="imgs/sequoia.png" alt="sequoia" width="66"/><br></p> | 🔒 | N/A |
+| N/A (There is no mention of a company in the given DOM) | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
+| N/A (company name not found in the given DOM) | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
 | Netflix Games Studio | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
 | Notion | [N/A](#) | $10B valuation. | <p align="center"><img src="imgs/sequoia.png" alt="sequoia" width="66"/><br></p> | 🔒 | N/A |
 | Observe.AI | [N/A](#) | AI insights on customer interactions | <p align="center"></p> | 🔒 | N/A |
@@ -198,7 +201,6 @@
 | Retool | [N/A](#) |  | <p align="center"><img src="imgs/a16z.png" alt="a16z" width="66"/><br></p> | 🔒 | N/A |
 | Rippling | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
 | Ritual | [N/A](#) |  | <p align="center"><img src="imgs/founders-fund.png" alt="founders fund" width="66"/><br></p> | 🔒 | N/A |
-| Rivian | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
 | Roadie | [N/A](#) | Crowdsourced delivery platform, backed by Home Depot. | <p align="center"></p> | 🔒 | N/A |
 | Rocket Money | [N/A](#) | Acquired by Rocket Companies for $1.3B | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br><img src="imgs/bessemer-venture-partners.png" alt="bessemer venture partners" width="66"/><br><img src="imgs/accel-partners.png" alt="accel partners" width="66"/><br></p> | 🔒 | N/A |
 | Rockstar Games | [N/A](#) | Creators of GTA and Red Dead games | <p align="center"></p> | 🔒 | N/A |
@@ -231,6 +233,7 @@
 | Tempo | [N/A](#) | Live home fitness training powered by computer vision, $220M Series C. | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | TextNow | [N/A](#) | Eliminating wireless service providers, free calling & texting | <p align="center"></p> | 🔒 | N/A |
 | The Voleon Group | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
+| There is no clear indication of the name of the company in the provided DOM. | [N/A](#) | Cheaper travel, backed by Capital One | <p align="center"></p> | 🔒 | N/A |
 | Titan | [N/A](#) | Wealth management, building a next gen Schwab. | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Tripalink | [N/A](#) | Real estate | <p align="center"></p> | 🔒 | N/A |
 | Twilio | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
