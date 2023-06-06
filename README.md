@@ -27,12 +27,12 @@
 | Second Order Effects | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562680003) | Second Order Effects is an engineering consultancy that turns uncertainty into fully functional hardware and software. | <p align="center"></p> | ✅ | June 04, 2023 |
 | Angle Labs | [Software Engineer Intern (Back-End - Web3)](https://anglemoney.notion.site/Software-Engineer-Intern-Back-End-Web3-462c246d894e4f409aba0733877ee57d?pvs=25) | Building at the forefront of DeFi | <p align="center"><img src="imgs/a16z.png" alt="a16z" width="66"/><br></p> | ✅ | June 04, 2023 |
 | CertiK | [Platform Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40) |  | <p align="center"><img src="imgs/insight-partners.png" alt="insight partners" width="66"/><br><img src="imgs/sequoia.png" alt="sequoia" width="66"/><br><img src="imgs/tiger-global.png" alt="tiger global" width="66"/><br></p> | ✅ | June 04, 2023 |
-| Ramp | [Software Engineer Internship   iOS](https://boards.greenhouse.io/ramp/jobs/6729438002) |  | <p align="center"><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br><img src="imgs/iconiq.png" alt="iconiq" width="66"/><br><img src="imgs/thrive-capital.png" alt="thrive capital" width="66"/><br></p> | ✅ | June 01, 2023 |
 | Ramp | [Software Engineer Internship   Backend](https://boards.greenhouse.io/ramp/jobs/5083064002) |  | <p align="center"><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br><img src="imgs/iconiq.png" alt="iconiq" width="66"/><br><img src="imgs/thrive-capital.png" alt="thrive capital" width="66"/><br></p> | ✅ | June 01, 2023 |
 | Ramp | [Software Engineer Internship   Frontend](https://boards.greenhouse.io/ramp/jobs/4820594002) |  | <p align="center"><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br><img src="imgs/iconiq.png" alt="iconiq" width="66"/><br><img src="imgs/thrive-capital.png" alt="thrive capital" width="66"/><br></p> | ✅ | June 01, 2023 |
 | Ramp | [Software Engineer Internship   Android](https://boards.greenhouse.io/ramp/jobs/6726450002) |  | <p align="center"><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br><img src="imgs/iconiq.png" alt="iconiq" width="66"/><br><img src="imgs/thrive-capital.png" alt="thrive capital" width="66"/><br></p> | ✅ | June 01, 2023 |
+| Ramp | [Software Engineer Internship   iOS](https://boards.greenhouse.io/ramp/jobs/6729438002) |  | <p align="center"><img src="imgs/linkedin-top-50-startups-2022.png" alt="linkedin top 50 startups 2022" width="66"/><br><img src="imgs/iconiq.png" alt="iconiq" width="66"/><br><img src="imgs/thrive-capital.png" alt="thrive capital" width="66"/><br></p> | ✅ | June 01, 2023 |
 | MosaicML | [Software Engineer Intern](https://boards.greenhouse.io/mosaicml/jobs/4133756004) | Train and deploy LLMs and other generative AI models on your data, in your secure environment. | <p align="center"></p> | ✅ | June 01, 2023 |
-| Capstone | [2024 Summer Internship - Software Engineer](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6784275002) | Investment management with $9.4 billion AUM | <p align="center"></p> | ✅ | June 01, 2023 |
+| Capstone | [2024 Summer Internship - Software Engineer - NYC](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6784275002) | Investment management with $9.4 billion AUM | <p align="center"></p> | ✅ | June 01, 2023 |
 | Optiver | [2024 Tech Graduate & Intern – Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) |  | <p align="center"></p> | ✅ | May 31, 2023 |
 | AQR Capital Management, LLC | [2024 Summer Internship-Express Interest](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927?gh_jid=4478927#/) |  | <p align="center"></p> | ✅ | May 31, 2023 |
 | Meta | [Research Scientist Intern, AI Graphics (PhD)](https://www.metacareers.com/v2/jobs/1295606777860891/) |  | <p align="center"></p> | ✅ | May 31, 2023 |
@@ -151,6 +151,7 @@
 | Gusto | [N/A](#) |  | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Helion Energy | [N/A](#) | Building the world’s first fusion power plant, enabling a future with unlimited clean electricity, backed by Sam Altman & Dustin Moskovitz | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Hightouch | [N/A](#) | Syncs your data to CRM, e-mail, advertising tools and more, Series B | <p align="center"></p> | 🔒 | N/A |
+| Hopper | [N/A](#) | Cheaper travel, backed by Capital One | <p align="center"></p> | 🔒 | N/A |
 | Hudl | [N/A](#) | Providing tools for coaches and athletes to review game footage and improve team play. | <p align="center"></p> | 🔒 | N/A |
 | Human Interest | [N/A](#) | 401(k) for small and medium-sized businesses. | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | IMC | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
@@ -175,8 +176,6 @@
 | Modern Health | [N/A](#) | A mental health benefits platform for employers. | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Monzo | [N/A](#) | A bank as smart as your phone, over 7 million customers | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Mutiny | [N/A](#) | Using AI and data to convert website visitors into customers | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br><img src="imgs/sequoia.png" alt="sequoia" width="66"/><br></p> | 🔒 | N/A |
-| N/A (There is no mention of a company in the given DOM) | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
-| N/A (company name not found in the given DOM) | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
 | Netflix Games Studio | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
 | Notion | [N/A](#) | $10B valuation. | <p align="center"><img src="imgs/sequoia.png" alt="sequoia" width="66"/><br></p> | 🔒 | N/A |
 | Observe.AI | [N/A](#) | AI insights on customer interactions | <p align="center"></p> | 🔒 | N/A |
@@ -233,7 +232,6 @@
 | Tempo | [N/A](#) | Live home fitness training powered by computer vision, $220M Series C. | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | TextNow | [N/A](#) | Eliminating wireless service providers, free calling & texting | <p align="center"></p> | 🔒 | N/A |
 | The Voleon Group | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
-| There is no clear indication of the name of the company in the provided DOM. | [N/A](#) | Cheaper travel, backed by Capital One | <p align="center"></p> | 🔒 | N/A |
 | Titan | [N/A](#) | Wealth management, building a next gen Schwab. | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Tripalink | [N/A](#) | Real estate | <p align="center"></p> | 🔒 | N/A |
 | Twilio | [N/A](#) |  | <p align="center"></p> | 🔒 | N/A |
