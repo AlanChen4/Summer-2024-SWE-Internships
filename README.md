@@ -248,3 +248,4 @@
 | Webflow | [N/A](#) |  | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Whatnot | [N/A](#) |  | <p align="center"><img src="imgs/yc.png" alt="yc" width="66"/><br></p> | 🔒 | N/A |
 | Yext | [N/A](#) |  | <p align="center"><img src="imgs/ipo.png" alt="ipo" width="66"/><br></p> | 🔒 | N/A |
+
