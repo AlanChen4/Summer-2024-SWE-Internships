@@ -19,7 +19,7 @@
     <a href="https://carbos.vercel.app/">
       <b>Faster, more pointed recruiting functionality than Handshake or LinkedIn</b>
       <div>
-        <a href="https://carbos.vercel.app/"><img src="imgs/carbosbanner.png" width="450" alt="Carbos" ></a>
+        <a href="https://carbos.vercel.app/"><img src="imgs/carbosbannernew.png" width="700" alt="Carbos" ></a>
       </div> 
 </div>
 
