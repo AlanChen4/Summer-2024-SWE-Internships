@@ -1,18 +1,29 @@
-# Summer 2024 Software Engineering Internships
+# Summer 2024 Software Engineering Internships by Carbos (data sample)
 
 📅 This board is **updated daily** using a custom automated job monitor. 
 
-👀 For lots more positions, company tracking, recruiter contacts, and more stuff that can't all be fit in one repo, check out [Carbos (another project I'm working on)](https://carbos.vercel.app/) (it's all free!)
+👀 For lots more positions, company tracking, recruiter contacts, and more stuff that can't all be fit in one repo, check out [Carbos](https://carbos.vercel.app/) (it's all free!)
 
 ⚒ More companies are added and monitored every day, so feel to open a pull request with any suggestions.
-
-📢 This project is heavily inspired by orgs like Pitt CSC so huge shoutout to them!
 
 ⭐ If you like this project and want to see it continued, I'd really appreciate a star - thanks sm!
 
 ⚠ Disclaimer: The **Opened At** date is the date that the automated job monitor discovered the job posting and may be off depending on when the company was added to the watch list.
 
 ♥ Job monitor currently paused for a few days while backend upgrades are being made, will be back with new grad repo and more! Thanks for all of the support.
+
+---
+
+<div align="center">
+  <p>
+    <a href="https://carbos.vercel.app/">
+      <b>Faster, more pointed recruiting functionality than Handshake or LinkedIn</b>
+      <div>
+        <a href="https://carbos.vercel.app/"><img src="imgs/carbosbanner.png" width="450" alt="Carbos" ></a>
+      </div> 
+</div>
+
+---
 
 | Company | Title | Description | Investors | Status | Opened At |
 | ------- | ------| ------------| --------- | ------ | --------- |
