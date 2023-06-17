@@ -6,8 +6,6 @@
 
 ⚒ More companies are added and monitored every day, so feel to open a pull request with any suggestions.
 
-⭐ If you like this project and want to see it continued, I'd really appreciate a star - thanks sm!
-
 ⚠ Disclaimer: The **Opened At** date is the date that the automated job monitor discovered the job posting and may be off depending on when the company was added to the watch list.
 
 ♥ Job monitor currently paused for a few days while backend upgrades are being made, will be back with new grad repo and more! Thanks for all of the support.
