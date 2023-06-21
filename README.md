@@ -1,6 +1,6 @@
 # Summer 2024 Software Engineering Internships by Carbos
 
-📅 This board is **updated daily** using a custom automated job monitor that watches 300 of [a list of high-growth companies](https://carbos.vercel.app/monitoring).
+📅 This board is **updated daily** using a custom automated job monitor that watches a list of [500+ high-growth companies](https://carbos.vercel.app/monitoring).
 
 📢 If you're interested in:
 - The [full list of jobs](https://carbos.vercel.app/boards/swe-internships-summer-2024)
