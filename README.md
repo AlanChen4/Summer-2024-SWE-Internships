@@ -12,7 +12,7 @@
 
 And so much more that can't fit all on one repo, then check out [Carbos](https://carbos.vercel.app/) (it's all free!)
 
-♥ Thanks for all the support, please feel free to leave any suggestions/questions
+♥ Thanks for all the support, please feel free to leave any [suggestions](https://airtable.com/shr37NBeVqqhlWSq2) (completely anonymous)
 
 ---
 
