@@ -14,6 +14,8 @@ And so much more that can't fit all on one repo, then check out [Carbos](https:/
 
 ♥ Thanks for all the support, please feel free to leave any [suggestions](https://airtable.com/shr37NBeVqqhlWSq2) (completely anonymous)
 
+⚠ Disclaimer: This repo is for USA + remote positions only, if you are looking for international positions as well, please visit [here](https://carbos.vercel.app/boards)
+
 ---
 
 <div align="center">
