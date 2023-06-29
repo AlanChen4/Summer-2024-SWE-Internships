@@ -24,4 +24,4 @@ jobs:
       - name: execute py script
         run: python updaters.py
         env:
-          README_GENERATOR_URL: ${{ secrets.README_GENERATOR_URL }}
+          README_GENERATOR_URL: ${{ vars.README_GENERATOR_URL }}
