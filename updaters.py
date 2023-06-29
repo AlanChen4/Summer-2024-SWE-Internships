@@ -1,9 +1,6 @@
 import logging
 import os
 import requests
-from dotenv import load_dotenv
-
-load_dotenv()
 
 
 class FileUpdater:
@@ -27,13 +24,8 @@ class FileUpdater:
 
 
 def update_readme() -> None:
-    url = os.environ.get("README_GENERATOR_URL", None)
-    if url is None:
-        logging.error("Please set a variable for README_GENERATOR_URL to call this method")
-        return
-
-    FileUpdater.update(url, "./README.md")
+    FileUpdater.update("https://carbos-backend-0ace626eaf33.herokuapp.com/jobs/?board=SWE_2024_SUMMER_INTERNSHIP", "./README.md")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     update_readme()
