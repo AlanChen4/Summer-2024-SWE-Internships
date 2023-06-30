@@ -1,16 +1,16 @@
 # Summer 2024 Software Engineering Internships by Carbos
 
-📅 This board is **updated daily** using a custom automated job monitor that watches [a list of 1000+ high-growth companies](https://carbos.vercel.app/monitoring).
+📅 This board is **updated daily** using a custom automated job monitor that watches [a list of 1000+ high-growth companies](https://www.carbosjobs.com/monitoring?utm_source=github&utm_medium=SWEinternrepo).
 
 📢 If you're interested in:
-- The [full list of jobs](https://carbosjobs.com/boards)
+- The [full list of jobs](https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo)
 - Developing connections with recruiters
 - Creating your own private list of monitored jobs
 - Keyword filters for title/location
 - Slack integration to notify updates
 - Recruiter emails
 
-And so much more that can't fit all on one repo, then check out [Carbos](https://carbosjobs.com/) (it's all free!)
+And so much more that can't fit all on one repo, then check out [Carbos](https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo) (it's all free!)
 
 ♥ Thanks for all the support, please feel free to leave any [suggestions](https://airtable.com/shr37NBeVqqhlWSq2) (completely anonymous)
 
@@ -18,9 +18,9 @@ And so much more that can't fit all on one repo, then check out [Carbos](https:/
 
 <div align="center">
   <p>
-    <a href="https://carbosjobs.com/">
+    <a href="https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo">
       <div>
-        <a href="https://carbosjobs.com/"><img src="imgs/carbos.png" width="700" alt="Carbos" ></a>
+        <a href="https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo"><img src="imgs/carbos.png" width="700" alt="Carbos" ></a>
       </div> 
 </div>
 
@@ -38,9 +38,9 @@ And so much more that can't fit all on one repo, then check out [Carbos](https:/
 | The Block | The Block is a leading independent media platform covering the cryptocurrency industry. It has raised over $100 million in funding from investors including Sequoia Capital, Bain Capital Ventures, and GV. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="imgs/bain-capital-ventures.png"><img src="imgs/bain-capital-ventures.png" alt="bain-capital-ventures.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="imgs/sequoia.png"><img src="imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Research Intern - Data](https://jobs.lever.co/theblockcrypto/00ecc02c-b30e-4d1b-a02b-2f400e53e66a) | ✅ | June 21, 2023 |
 | Gate.io | Gate.io's mission is to make crypto accessible for everyone. The company has raised over $400 million from investors like Binance and Sequoia Capital. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="imgs/sequoia.png"><img src="imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Market research Intern](https://jobs.lever.co/gate.io/cc590402-eb67-4e2b-9c67-308d2473cd4a) | ✅ | June 21, 2023 |
 | CertiK | CertiK's mission is to secure the cryptocurrency market. They have raised over $90 million from investors including Sequoia Capital and Tiger Global Management, and are valued at over $1 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="imgs/tiger-global.png"><img src="imgs/tiger-global.png" alt="tiger-global.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="imgs/sequoia.png"><img src="imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Security Research Internship](https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33) | ✅ | June 21, 2023 |
-| CertiK | CertiK's mission is to secure the cryptocurrency market. They have raised over $90 million from investors including Sequoia Capital and Tiger Global Management, and are valued at over $1 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="imgs/tiger-global.png"><img src="imgs/tiger-global.png" alt="tiger-global.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="imgs/sequoia.png"><img src="imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Research Analyst Intern](https://jobs.lever.co/certik/277fc381-3f3f-491c-879f-be48850e60ff) | ✅ | June 21, 2023 |
 | CertiK | CertiK's mission is to secure the cryptocurrency market. They have raised over $90 million from investors including Sequoia Capital and Tiger Global Management, and are valued at over $1 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="imgs/tiger-global.png"><img src="imgs/tiger-global.png" alt="tiger-global.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="imgs/sequoia.png"><img src="imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Full Stack Internship - Matrix](https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48) | ✅ | June 21, 2023 |
 | CertiK | CertiK's mission is to secure the cryptocurrency market. They have raised over $90 million from investors including Sequoia Capital and Tiger Global Management, and are valued at over $1 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="imgs/tiger-global.png"><img src="imgs/tiger-global.png" alt="tiger-global.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="imgs/sequoia.png"><img src="imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Platform Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40) | ✅ | June 21, 2023 |
+| CertiK | CertiK's mission is to secure the cryptocurrency market. They have raised over $90 million from investors including Sequoia Capital and Tiger Global Management, and are valued at over $1 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="imgs/tiger-global.png"><img src="imgs/tiger-global.png" alt="tiger-global.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="imgs/sequoia.png"><img src="imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Research Analyst Intern](https://jobs.lever.co/certik/277fc381-3f3f-491c-879f-be48850e60ff) | ✅ | June 21, 2023 |
 | The Boring Company | The Boring Company aims to make tunneling affordable and accessible. It has raised $6.7 billion in a Series D funding round, with a valuation of $57.7 billion and key investors including Founders Fund and DFJ Growth. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="imgs/founders-fund.png"><img src="imgs/founders-fund.png" alt="founders-fund.png" width="75" style="max-width: 100%;"></a><br></p> | [Civil Engineering Intern](https://jobs.lever.co/boringcompany/f6d53f8a-d4da-4212-8a40-3f724ba07b1f) | ✅ | June 21, 2023 |
 | The Boring Company | The Boring Company aims to make tunneling affordable and accessible. It has raised $6.7 billion in a Series D funding round, with a valuation of $57.7 billion and key investors including Founders Fund and DFJ Growth. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="imgs/founders-fund.png"><img src="imgs/founders-fund.png" alt="founders-fund.png" width="75" style="max-width: 100%;"></a><br></p> | [Integration Engineering Intern](https://jobs.lever.co/boringcompany/1c1ee776-cbf4-4cf0-bfb0-a446ed89ee29) | ✅ | June 21, 2023 |
 | The Boring Company | The Boring Company aims to make tunneling affordable and accessible. It has raised $6.7 billion in a Series D funding round, with a valuation of $57.7 billion and key investors including Founders Fund and DFJ Growth. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="imgs/founders-fund.png"><img src="imgs/founders-fund.png" alt="founders-fund.png" width="75" style="max-width: 100%;"></a><br></p> | [Tunnel Engineering Intern](https://jobs.lever.co/boringcompany/f07e7532-a6e0-45c9-8328-c521bb68f105) | ✅ | June 21, 2023 |
