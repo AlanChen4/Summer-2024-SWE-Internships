@@ -1,6 +1,6 @@
 # Summer 2024 Software Engineering Internships by Carbos
 
-📅 This board is **updated daily** using a custom automated job monitor that watches [a list of 1000+ high-growth companies](https://www.carbosjobs.com/monitoring?utm_source=github&utm_medium=SWEinternrepo).
+📅 This board is **updated daily** using a custom automated job monitor that watches 20% of the companies from [a list of 1000+ high-growth companies](https://www.carbosjobs.com/monitoring?utm_source=github&utm_medium=SWEinternrepo).
 
 📢 If you're interested in:
 - The [full list of jobs](https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo)
