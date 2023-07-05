@@ -17,11 +17,10 @@ And so much more that can't fit all on one repo, then check out [Carbos](https:/
 ---
 
 <div align="center">
-  <p>
-    <a href="https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo">
-      <div>
-        <a href="https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo"><img src="imgs/carbos.png" width="700" alt="Carbos" ></a>
-      </div> 
+        <a href="https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo" target="_blank" rel="noopener noreferrer">
+          <img src="imgs/carbos.png" width="700" alt="Carbos">
+          <img src="imgs/demo.png" width="800" alt="Demo">
+        </a>
 </div>
 
 ---
