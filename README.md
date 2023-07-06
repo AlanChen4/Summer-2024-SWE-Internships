@@ -7,6 +7,7 @@
 ‼ In addition to way more companies, Carbos includes custom filters, a stronger pipeline to recruiters, & NEVER sponsors posts on our board (so you only see the roles & companies that best match your interests).
 
 ♥ Thanks for all the support, please feel free to leave any [suggestions](https://airtable.com/shr37NBeVqqhlWSq2) (completely anonymous)
+
 ---
 
 <div align="center">
