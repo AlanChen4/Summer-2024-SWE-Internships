@@ -65,8 +65,8 @@
 | Absci | Absci's mission is to engineer cells for molecule production. The company raised $100 million in Series B funding, with a valuation of $1.2 billion and total funding of $150 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Academy Sports + Outdoors | SoFi: Achieving financial independence, Series G, $4.4 billion valuation, $1.2 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Acadia Pharmaceuticals Inc. | Acadia Pharmaceuticals develops CNS disorder treatments.  Raised $400M from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
-| Accolade | Accolades: AI-powered talent identification for efficient hiring.  Series B funding, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Accolade | Accolades: AI platform for personalized employee recognition. Series B, \$100M valuation, \$130M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Accolade | Accolades: AI-powered talent identification for efficient hiring.  Series B funding, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Acorns | Acorns aims to help people save and invest.  $700M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Acquia | Acquia: Leading open source software for Drupal. $250M Series E, $2.5B valuation, $600M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | ActionIQ | ActionIQ's mission is to personalize customer experiences. The company has raised over $100 million and is valued at over $1 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -186,9 +186,9 @@
 | Bitrise | Bitrise: Simplifying mobile app development.  $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | BlackBerry | Brex provides financial tools for startups to succeed.  Raised $1 billion, valued at $12 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Blackbaud | Blackbaud powers nonprofits, raising $1 billion in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
-| Blackstone | Blackstone's mission: Creating positive impact for clients, employees, and communities. Financials: $21.7 billion funding round, $684 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Blackstone | Blackstone: Global investment firm creating positive impact.  $20 billion funding round, $684 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Blackstone | Blackstone's mission: Create positive economic impact and long-term value. Financials: $21 billion funding round, $600 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Blackstone | Blackstone's mission: Creating positive impact for clients, employees, and communities. Financials: $21.7 billion funding round, $684 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Blend | Blend: Digital lender for small businesses.  $2.2B Series E, $11.7B valuation, $4.5B raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Blockworks | Blockworks: Media and research for the digital asset ecosystem. $10M Series A funding, $15M total raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Blue Cross Blue Shield of Massachusetts | Blue Cross Blue Shield of Massachusetts provides affordable health care. Funding round: Series E, Valuation: $6.5 billion, Total amount raised: $1.2 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
